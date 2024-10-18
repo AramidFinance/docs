@@ -1,0 +1,70 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #704076;
+  --ifm-color-primary-dark: #65396a;
+  --ifm-color-primary-darker: #5f3564;
+  --ifm-color-primary-darkest: #4e2b52;
+  --ifm-color-primary-light: #7b4782;
+  --ifm-color-primary-lighter: #814b88;
+  --ifm-color-primary-lightest: #92559a;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  
+  /* Adjust the font-weight for a thinner appearance */
+  --ifm-font-weight-base: 300;
+  --ifm-heading-font-weight: 400;
+  
+  /* Adjust line-height for more compact text */
+  --ifm-line-height-base: 1.6;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #fb7eff;
+  --ifm-color-primary-dark: #fa55ff;
+  --ifm-color-primary-darker: #fa3dff;
+  --ifm-color-primary-darkest: #f900ff;
+  --ifm-color-primary-light: #fca7ff;
+  --ifm-color-primary-lighter: #fcbfff;
+  --ifm-color-primary-lightest: #fee8ff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Customize the logo size */
+.navbar__logo img {
+  height: 2rem;
+}
+
+/* Add some custom styles for better visibility */
+.hero__title,
+.hero__subtitle {
+  color: var(--ifm-color-primary-darkest);
+}
+
+[data-theme='dark'] .hero__title,
+[data-theme='dark'] .hero__subtitle {
+  color: var(--ifm-color-primary-lightest);
+}
+
+/* Apply a thinner font to the entire body */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-weight: var(--ifm-font-weight-base);
+}
+
+/* Adjust heading styles for a more compact look */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: var(--ifm-heading-font-weight);
+  line-height: 1.3;
+}
+
+/* Optional: Adjust paragraph spacing for a more compact look */
+p {
+  margin-bottom: 0.8rem;
+}
