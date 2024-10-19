@@ -1,6 +1,14 @@
-# Website
+# Aramid Finance Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repository contains the documentation for Aramid Finance, a decentralized, high-performance cross-chain protocol designed to facilitate secure and efficient token bridging and messaging across multiple blockchain ecosystems.
+
+## About Aramid Finance
+
+Aramid Finance provides seamless interoperability between AVM (Algorand Virtual Machine) and EVM (Ethereum Virtual Machine) compatible networks, with a strong emphasis on decentralization, security, and scalability. It is maintained by the Aramid Collective, a non-profit organization, and governed by the Aramid DAO.
+
+## Documentation Website
+
+This documentation is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 

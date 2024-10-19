@@ -8,15 +8,15 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-cloudflare-pages-domain.pages.dev', // Update this with your Cloudflare Pages URL
+  url: 'https://docs.aramid.finance', // Update this with your Cloudflare Pages URL
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'aramid-finance',
-  projectName: 'aramid-docs',
+  organizationName: 'AramidFinance', // Updated to match the GitHub organization name
+  projectName: 'docs', // Updated to match the GitHub repository name
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -37,7 +37,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/aramid-finance/aramid-docs/tree/main/',
+          editUrl: 'https://github.com/AramidFinance/docs/tree/main/', // Updated edit URL
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -63,7 +63,17 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          href: 'https://github.com/aramid-finance/aramid-docs',
+          href: 'https://aramid.finance',
+          label: 'Homepage',
+          position: 'right',
+        },
+        {
+          href: 'https://app.aramid.finance',
+          label: 'Bridge App',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/AramidFinance/docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -76,15 +86,15 @@ const config: Config = {
           title: 'Documentation',
           items: [
             {
-              label: 'Getting Started',
+              label: '📚 Getting Started',
               to: '/docs/intro',
             },
             {
-              label: 'Supported Networks',
+              label: '🌐 Supported Networks',
               to: '/docs/supported-networks-and-assets',
             },
             {
-              label: 'Using Aramid Bridge',
+              label: '🔗 Using Aramid Bridge',
               to: '/docs/using-aramid-bridge',
             },
           ],
@@ -94,7 +104,7 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/aramidfinance',
+              href: 'https://discord.gg/gAku95M5TB',
             },
             {
               label: 'Twitter',
@@ -107,7 +117,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/aramid-finance/aramid-docs',
+              href: 'https://github.com/AramidFinance/docs', // Updated GitHub link
             },
           ],
         },

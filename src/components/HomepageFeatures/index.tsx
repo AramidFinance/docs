@@ -12,7 +12,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Cross-Chain Compatibility',
     description: (
       <>
-        Supports multiple blockchain ecosystems, including Ethereum, Voi Network, Algorand, Arbitrum, Base, and other EVM and AVM compatible chains.
+        Supports multiple blockchain ecosystems, including **Ethereum**, **Voi Network**, **Algorand**, **Arbitrum**, **Base**, and other EVM and AVM compatible chains.
       </>
     ),
   },
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Decentralized Validation',
     description: (
       <>
-        Transactions are validated by a decentralized network of independent validators called Soldiers.
+        Transactions are validated by a decentralized network of independent validators called **Soldiers**.
       </>
     ),
   },
@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Security-First Design',
     description: (
       <>
-        Employs robust cryptographic techniques and decentralized governance to ensure the safety of user assets.
+        Employs **robust cryptographic techniques** and **decentralized governance** to ensure the safety of user assets.
       </>
     ),
   },

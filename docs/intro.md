@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # Introduction to Aramid Finance
 
-Aramid Finance is a decentralized, high-performance cross-chain protocol designed to facilitate secure and efficient token bridging and messaging across multiple blockchain ecosystems. Its primary focus is to provide seamless interoperability between AVM (Algorand Virtual Machine) and EVM (Ethereum Virtual Machine) compatible networks, with a strong emphasis on decentralization, security, and scalability. Aramid is maintained by the Aramid Collective, a non-profit organization, and governed by the Aramid DAO.
+**Aramid Finance** is a decentralized, high-performance cross-chain protocol designed to facilitate secure and efficient token bridging and messaging across multiple blockchain ecosystems. Its primary focus is to provide seamless interoperability between AVM (Algorand Virtual Machine) and EVM (Ethereum Virtual Machine) compatible networks, with a strong emphasis on decentralization, security, and scalability. Aramid is maintained by the Aramid Collective, a non-profit organization, and governed by the Aramid DAO.
+
+> Seamless interoperability between AVM and EVM compatible networks
 
 ## Key Features
 

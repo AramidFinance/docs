@@ -8,16 +8,103 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-color: #0F0729;
+}
+
+.logoContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.logo {
+  width: 200px;
+  height: auto;
+}
+
+.heroTitle {
+  font-size: 2.5rem;
+  color: var(--ifm-color-primary-darkest);
+  margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+
+.tableOfContents {
+  padding: 2rem 0;
+  background-color: var(--ifm-background-color);
+}
+
+.tocTitle {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tocGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.tocCard {
+  background-color: var(--ifm-card-background-color);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-card-border-radius);
+  box-shadow: var(--ifm-global-shadow-lw);
+  padding: 1.5rem;
+  transition: all 0.2s ease;
+  text-decoration: none;
+  color: var(--ifm-font-color-base);
+  position: relative;
+}
+
+.tocCard:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--ifm-global-shadow-md);
+  text-decoration: none;
+}
+
+.tocCardTitle {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.tocCardDescription {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.techBadge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: var(--ifm-color-primary);
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.heroLogo {
+  width: 80%;
+  max-width: 600px;
+  margin-bottom: 1rem;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
   }
-}
+  
+  .heroLogo {
+    width: 100%;
+  }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  .heroSubtitle {
+    font-size: 1.2rem;
+  }
 }

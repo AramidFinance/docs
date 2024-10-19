@@ -4,8 +4,7 @@ sidebar_position: 4
 
 # Core Architecture
 
-## 4.1 Soldier Nodes (Validators)
-
+## Soldier Nodes (Validators)
 Soldier Nodes are the decentralized validators that power the Aramid Bridge. They ensure the integrity and security of cross-chain transactions by performing the following tasks:
 
 - Monitoring lock transactions on the source chain.
@@ -14,15 +13,13 @@ Soldier Nodes are the decentralized validators that power the Aramid Bridge. The
 
 Each Soldier Node operates autonomously and communicates via a peer-to-peer (P2P) protocol, ensuring that no single node has control over the validation process. This decentralized approach improves fault tolerance and mitigates the risk of single points of failure.
 
-## 4.2 Multi-Signature Consensus Mechanism
-
+## Multi-Signature Consensus Mechanism
 A key security feature of Aramid is its multi-signature (multisig) mechanism. A transaction can only be executed if a predefined threshold of Soldier Nodes sign off on it. This ensures that:
 
 - No single node can unilaterally approve or process a transaction.
 - N-out-of-M multi-signature validation is enforced, where a majority or supermajority of signatures is required for critical operations (e.g., transferring tokens, governance updates).
 
-## 4.3 Cryptographic Security
-
+## Cryptographic Security
 Aramid employs advanced cryptographic techniques to secure all cross-chain transactions. This includes:
 
 - Elliptic Curve Digital Signature Algorithm (ECDSA) for tamper-proof cryptographic signatures.

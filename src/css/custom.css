@@ -22,6 +22,11 @@
   
   /* Adjust line-height for more compact text */
   --ifm-line-height-base: 1.6;
+
+  /* Custom navbar colors */
+  --ifm-navbar-background-color: #4e2b52;
+  --ifm-navbar-link-color: #ffffff;
+  --ifm-navbar-link-hover-color: #fb7eff;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -34,6 +39,24 @@
   --ifm-color-primary-lighter: #fcbfff;
   --ifm-color-primary-lightest: #fee8ff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  /* Custom navbar colors for dark mode */
+  --ifm-navbar-background-color: #2b1a2e;
+}
+
+/* Customize the navbar */
+.navbar {
+  background-color: var(--ifm-navbar-background-color);
+}
+
+.navbar__link,
+.navbar__brand {
+  color: var(--ifm-navbar-link-color);
+}
+
+.navbar__link:hover,
+.navbar__brand:hover {
+  color: var(--ifm-navbar-link-hover-color);
 }
 
 /* Customize the logo size */
