@@ -39,7 +39,7 @@ The Aramid Bridge enables users to transfer assets between supported networks wi
    Once the transaction is complete, you'll receive your assets on the destination chain.
 
    ![Transaction Complete](../static/img/guide/06bridging_succesful.png)
-Remember to always ensure you have enough native tokens on both chains to cover gas fees.
+   Remember to always ensure you have enough native tokens on both chains to cover gas fees.
 
 ## Important Considerations
 

@@ -80,11 +80,11 @@ pvcRoot:
 deployment:
   resources:
     requests:
-      memory: '1000Mi'
-      cpu: '1000m'
+      memory: "1000Mi"
+      cpu: "1000m"
     limits:
-      memory: '16000Mi'
-      cpu: '8000m'
+      memory: "16000Mi"
+      cpu: "8000m"
 ```
 
 Example for AWS:
