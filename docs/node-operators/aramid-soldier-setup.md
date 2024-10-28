@@ -37,7 +37,7 @@ Kubernetes is widely used in production environments to manage microservices and
 
 ### Linode Kubernetes Setup
 
-To set up Kubernetes on Linode, follow the steps outlined in the [Linode K8S setup guide](https://www.linode.com/docs/guides/how-to-deploy-kubernetes-on-linode-with-linode-kubernetes-engine-lke/).
+To set up Kubernetes on Linode, follow the steps outlined in the [Linode K8S setup guide](https://www.notion.so/biatec/Linode-K8S-setup-10ab2ccb197f80d9b4dedd92790f8491).
 
 ## Helm Repository Setup
 
