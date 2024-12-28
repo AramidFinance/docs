@@ -11,7 +11,7 @@ Aramid's architecture is designed to support a wide array of blockchain networks
 | Network       | Consensus | Chain ID | Chain Symbol | Integration Status |
 | ------------- | --------- | -------- | ------------ | ------------------ |
 | Ethereum      | EVM       | 1        | ETH          | Inactive           |
-| Voi Network   | EVM       | 416101   | VOI          | Active             |
+| Voi Network   | AVM       | 416101   | VOI          | Active             |
 | Algorand      | AVM       | 416001   | ALGO         | Active             |
 | Arbitrum      | EVM       | 42161    | ARB          | Active             |
 | Base          | EVM       | 8453     | BASE         | Active             |
