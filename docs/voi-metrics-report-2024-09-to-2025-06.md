@@ -1,6 +1,6 @@
-
 **Address:** `ARAMIDFJYV2TOFB5MRNZJIXBSAVZCVAUDAPFGKR5PNX4MTILGAZABBTXQQ`
-**Report Date:** 2025-06-19 18:49:39 UTC
+**Network:** `Voi`
+**Report Date:** ~ 2025-06-18 UTC
 
 ## 1. Executive Summary: The Bridge as a Core Growth Engine
 
@@ -16,7 +16,8 @@ This section provides six unique visualizations of bridge activity, each highlig
 
 ### Chart 1: Cumulative Bridged Value Growth
 
-![Chart 1: Cumulative Bridged Value Growth](chart_1_cumulative_value.png)
+![Chart 1: Cumulative Bridged Value Growth](https://github.com/user-attachments/assets/76b77544-a0a0-4472-ad19-bd6503dae20c)
+
 
 *This chart illustrates the total cumulative economic value (in estimated USD) flowing through the bridge. It showcases accelerating adoption and increasing trust in the infrastructure by normalizing the volume of different assets into a comparable metric.
 
@@ -25,35 +26,40 @@ This section provides six unique visualizations of bridge activity, each highlig
 
 ### Chart 2: User Engagement Funnel
 
-![Chart 2: User Engagement Funnel](chart_2_user_engagement.png)
+![Chart 2: User Engagement Funnel](https://github.com/user-attachments/assets/4f7adf2d-07f5-461f-814b-896661146caa)
+
 
 *This funnel demonstrates the bridge's ability to not only attract new users but also to retain them and cultivate a core group of 'power users' who rely on it for consistent operations.
 *
 
 ### Chart 3: Top Assets by Economic Contribution
 
-![Chart 3: Top Assets by Economic Contribution](chart_4_top_assets_value.png)
+![Chart 3: Top Assets by Economic Contribution](https://github.com/user-attachments/assets/5c2d793b-aab3-47b4-ad15-79abd3800c2d)
+
 
 *This chart ranks assets by the total USD value they contribute to the bridge, identifying the most critical ecosystems and liquidity sources.
 *
 
 ### Chart 4: User Acquisition & Retention Dynamics
 
-![Chart 4: User Acquisition & Retention Dynamics](chart_5_user_dynamics.png)
+![Chart 4: User Acquisition & Retention Dynamics](https://github.com/user-attachments/assets/da38f377-1c49-42e7-a5fa-83064cf0ff07)
+
 
 *This chart breaks down monthly active users into 'new' and 'returning', providing critical insight into the health of user growth. A strong base of returning users signifies a sticky, valuable product.
 *
 
 ### Chart 5: Asset Use Case Profile
 
-![Chart 5: Asset Use Case Profile](chart_6_asset_profile.png)
+![Chart 5: Asset Use Case Profile](https://github.com/user-attachments/assets/596f6c65-d3bb-4600-8c51-d742dedd25de)
+
 
 *This scatter plot profiles assets by their transaction frequency versus average size. It helps distinguish between assets used for high-frequency, small-value transfers (e.g., retail payments) and those used for low-frequency, high-value movements (e.g., protocol treasury management).
 *
 
 ### Chart 6: 24/7 Global Activity Heatmap
 
-![Chart 6: 24/7 Global Activity Heatmap](chart_3_activity_heatmap.png)
+![Chart 6: 24/7 Global Activity Heatmap](https://github.com/user-attachments/assets/3614c636-8e71-458d-945c-a55ebfd4c980)
+
 
 *The heatmap confirms the bridge's round-the-clock utility, with consistent transaction patterns across all days and hours, indicative of a diverse, global user base across multiple time zones.
 *
