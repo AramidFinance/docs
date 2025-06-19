@@ -2,7 +2,7 @@
 sidebar_position: 11
 ---
 
-# Voi Metrics Report 2024-09 to 2025-06
+# Voi Metrics Report 2024-09 to 2025-05
 
 **Address:** `ARAMIDFJYV2TOFB5MRNZJIXBSAVZCVAUDAPFGKR5PNX4MTILGAZABBTXQQ`
 **Network:** `Voi`
