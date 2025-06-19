@@ -325,3 +325,6 @@ This section provides six unique visualizations of bridge activity, each highlig
 |:---|---:|---:|---:|
 | 2024-10 | 1 | 0.0999 | 1 |
 
+## Data Used
+https://github.com/AramidFinance/docs/tree/main/static/report-data/2024-09-to-2025-05
+
