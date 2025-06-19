@@ -100,7 +100,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 10 | `S6MJVM6H726IYIBKRDXMESKRDOIBYJ7UEQ5XDH2C2M3WLP3XIHAB5JXP7E` | `7,499,500.0000` |
 
 
-**Monthly Growth Metrics (Excludes Incomplete Current Month)**
+**Monthly Growth Metrics**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
@@ -165,7 +165,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | Transaction Count | `146` |
 | Unique Wallets | `25` |
 | **Total Volume** | **`10,408,278,869,828.0000 UNIT`** |
-| **Total USD Value** | **`$ 0.00`** |
+| **Total USD Value** | **`NA(INVALID AMOUNT)`** |
 | Net Flow | `7,260,740,909,500.0000 UNIT` |
 | Inflow / Outflow | `8,834,509,889,664.0000` / `1,573,768,980,164.0000 UNIT` |
 | Average Tx Volume | `71,289,581,300.1918 UNIT` |
@@ -186,7 +186,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 10 | `O7FC4I7PX57TSJBN5XOR7WJJNHD6XBMY5IDG32RBAFRLNXN5RISQR6X7AM` | `28,078,714,903.0000` |
 
 
-**Monthly Growth Metrics (Excludes Incomplete Current Month)**
+**Monthly Growth Metrics**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
@@ -226,7 +226,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 10 | `6ERZOATYULXYOW77NKMNGYGT2F4A5KTHG5R3D6OTTX5FELJ3U3FGYK6R3I` | `57.9420` |
 
 
-**Monthly Growth Metrics (Excludes Incomplete Current Month)**
+**Monthly Growth Metrics**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
@@ -248,7 +248,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | Transaction Count | `8` |
 | Unique Wallets | `3` |
 | **Total Volume** | **`1,708,335,695,568.0000 ID-797369`** |
-| **Total USD Value** | **`$ 0.00`** |
+| **Total USD Value** | **`NA(TESTING)`** |
 | Net Flow | `-1,708,335,695,568.0000 ID-797369` |
 | Inflow / Outflow | `0.0000` / `1,708,335,695,568.0000 ID-797369` |
 | Average Tx Volume | `213,541,961,946.0000 ID-797369` |
@@ -262,7 +262,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 3 | `G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ` | `100,310,671,823.0000` |
 
 
-**Monthly Growth Metrics (Excludes Incomplete Current Month)**
+**Monthly Growth Metrics**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
@@ -277,7 +277,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | Transaction Count | `6` |
 | Unique Wallets | `3` |
 | **Total Volume** | **`135,036,676.0000 aVOTE`** |
-| **Total USD Value** | **`$ 0.00`** |
+| **Total USD Value** | **`NA(TESTING)`** |
 | Net Flow | `-125,982,236.0000 aVOTE` |
 | Inflow / Outflow | `4,527,220.0000` / `130,509,456.0000 aVOTE` |
 | Average Tx Volume | `22,506,112.6667 aVOTE` |
@@ -291,7 +291,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 3 | `G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ` | `861,561.0000` |
 
 
-**Monthly Growth Metrics (Excludes Incomplete Current Month)**
+**Monthly Growth Metrics**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
@@ -307,7 +307,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | Transaction Count | `1` |
 | Unique Wallets | `1` |
 | **Total Volume** | **`0.0999 aGOLD`** |
-| **Total USD Value** | **`$ 0.00`** |
+| **Total USD Value** | **`$10.11`** |
 | Net Flow | `-0.0999 aGOLD` |
 | Inflow / Outflow | `0.0000` / `0.0999 aGOLD` |
 | Average Tx Volume | `0.0999 aGOLD` |
@@ -319,7 +319,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 1 | `ALGONAUTSPIUHDCX3SLFXOFDUKOE4VY36XV4JX2JHQTWJNKVBKPEBQACRY` | `0.0999` |
 
 
-**Monthly Growth Metrics (Excludes Incomplete Current Month)**
+**Monthly Growth Metrics**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
