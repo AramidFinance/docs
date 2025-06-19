@@ -12,6 +12,7 @@ const sidebars: SidebarsConfig = {
     "fee-structure",
     "security-audits",
     "support",
+    "Voi Metrics Report: 2024-09 to 2025-06",
     {
       type: "category",
       label: "Node Operators",
