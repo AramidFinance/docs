@@ -1,7 +1,5 @@
 ---
 sidebar_position: 11
----
----
 image: https://docs.aramid.finance/assets/voi-network-growth-chart.png
 ---
 
