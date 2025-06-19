@@ -8,38 +8,26 @@ The Aramid Bridge enables users to transfer assets between supported networks wi
 
 ## Step-by-Step Guide:
 
-1. **Go to the Aramid Bridge Interface**
-   Navigate to the [Aramid Bridge platform](https://app.aramid.finance).
-
-2. **Connect Your Wallet**
-   Click on the "Connect Wallet" button and select your preferred wallet (e.g., MetaMask, WalletConnect).
-
-3. **Select Source and Destination Chains**
-   Choose the blockchain you want to transfer from (source) and the blockchain you want to transfer to (destination).
-
-   ![Select Source and Destination](../static/img/guide/01connect.png)
-
-4. **Select Asset and Enter Amount**
-   Pick the asset you wish to transfer and enter the amount.
-
-   ![Select Asset and Enter Amount](../static/img/guide/02chains_amounts.png)
-
-5. **Review and Confirm**
-   Double-check all details, including fees, and confirm the transaction in your wallet.
-
-   ![Review Transaction Details](../static/img/guide/03review.png)
-   ![Confirm Transaction in Wallet](../static/img/guide/04confirmwExplorer.png)
-
-6. **Wait for Confirmation**
-   The bridge will process your transaction. This usually takes a few minutes, depending on network congestion.
-
-   ![Transaction Processing](../static/img/guide/05bridgeStatuswExplorer.png)
-
-7. **Receive Assets**
-   Once the transaction is complete, you'll receive your assets on the destination chain.
-
-   ![Transaction Complete](../static/img/guide/06bridging_succesful.png)
-   Remember to always ensure you have enough native tokens on both chains to cover gas fees.
+1. Go to the [Aramid Bridge](https://app.aramid.finance)
+2. Choose your Origin chain.
+3. Choose your Bridge asset. 
+4. Connect your Origin wallet.
+5. Enter your Amount to bridge.
+6. Choose your Destination chain.
+7. Confirm your Receive asset is correct.
+8. Connect your Destination wallet. 
+You can alternatively enter a Destination address if bridging to an AVM network. 
+**EVM Destination chains require a connected wallet to sign the claim transaction.** 
+9. **Optional:** Enter your Note/Memo/Payment ****reference. 
+This is not required for bridging but can be useful to keep track of transactions with on-chain messages.
+10. Click “Review your transaction”.
+11. Confirm the details of your transaction.
+12. Click “Sign”(AVM) or “Approve & Sign”(EVM) and follow the signature instructions in your Origin wallet.
+13. Wait for Aramid to bridge your assets, this usually takes less than 3 minutes.
+14. Click “Claim” and follow the signature instructions in your Destination wallet.
+A**VM Destination chains do not require any further transactions.** 
+15. Congratulations, you have travelled across the Aramid Bridge🥳
+Click “Bridge again” if you would like to move assets cross-chain again.
 
 ## Important Considerations
 
