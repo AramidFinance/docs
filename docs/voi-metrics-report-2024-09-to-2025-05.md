@@ -242,19 +242,19 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 2025-05 | 2 | 2.0027 | 2 |
 
 
-### Asset Performance: Unknown Asset (`ID-797369`)
+### Asset Performance: Defi-nite (`Finite`)
 
 | Metric | Value |
 |:---|:---|
 | Transaction Count | `8` |
 | Unique Wallets | `3` |
-| **Total Volume** | **`1,708,335,695,568.0000 ID-797369`** |
+| **Total Volume** | **`1,708,335,695,568.0000 Finite`** |
 | **Total USD Value** | **`NA(TESTING)`** |
 | Net Flow | `-1,708,335,695,568.0000 ID-797369` |
 | Inflow / Outflow | `0.0000` / `1,708,335,695,568.0000 ID-797369` |
 | Average Tx Volume | `213,541,961,946.0000 ID-797369` |
 
-**Top 10 Wallets by Volume (`ID-797369`)**
+**Top 10 Wallets by Volume (`Finite`)**
 
 | Rank | Wallet | Volume |
 |:----:|:-------|-------:|
