@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-image: https://docs.aramid.finance/assets/voi-network-growth-chart.png
+image: https://github.com/user-attachments/assets/3b27938b-26c7-4367-9be5-a293b6b7afed
 ---
 
 # Voi Metrics Report 2024-09 to 2025-05
@@ -23,17 +23,17 @@ This section provides six unique visualizations of bridge activity, each highlig
 
 ### Chart 1: Cumulative Bridged Value Growth
 
-![Chart 1: Cumulative Bridged Value Growth](https://github.com/user-attachments/assets/76b77544-a0a0-4472-ad19-bd6503dae20c)
+![Chart 1: Cumulative Bridged Value Growth](https://github.com/user-attachments/assets/3b27938b-26c7-4367-9be5-a293b6b7afed)
 
 
 *This chart illustrates the total cumulative economic value (in estimated USD) flowing through the bridge. It showcases accelerating adoption and increasing trust in the infrastructure by normalizing the volume of different assets into a comparable metric.
 
-> **Note:** Value is estimated using the following prices: VOI: $0.0013, aVoi: $0.0013, aUSDC: $1.0000, aAlgo: $0.1750.
+> **Note:** Value is estimated using the following prices: VOI: $0.0013, aVoi: $0.0013, aUSDC: $1.0000, aAlgo: $0.1750, UNIT: $0.22.
 *
 
 ### Chart 2: User Engagement Funnel
 
-![Chart 2: User Engagement Funnel](https://github.com/user-attachments/assets/4f7adf2d-07f5-461f-814b-896661146caa)
+![Chart 2: User Engagement Funnel](https://github.com/user-attachments/assets/c836be4d-c171-49b7-848c-e251bf5edac3)
 
 
 *This funnel demonstrates the bridge's ability to not only attract new users but also to retain them and cultivate a core group of 'power users' who rely on it for consistent operations.
@@ -41,7 +41,8 @@ This section provides six unique visualizations of bridge activity, each highlig
 
 ### Chart 3: Top Assets by Economic Contribution
 
-![Chart 3: Top Assets by Economic Contribution](https://github.com/user-attachments/assets/5c2d793b-aab3-47b4-ad15-79abd3800c2d)
+![Chart 3: Top Assets by Economic Contribution](https://github.com/user-attachments/assets/3219bff4-0413-4152-aff6-aad16bab79f4)
+
 
 
 *This chart ranks assets by the total USD value they contribute to the bridge, identifying the most critical ecosystems and liquidity sources.
@@ -49,7 +50,8 @@ This section provides six unique visualizations of bridge activity, each highlig
 
 ### Chart 4: User Acquisition & Retention Dynamics
 
-![Chart 4: User Acquisition & Retention Dynamics](https://github.com/user-attachments/assets/da38f377-1c49-42e7-a5fa-83064cf0ff07)
+![Chart 4: User Acquisition & Retention Dynamics](https://github.com/user-attachments/assets/ed0767bc-7b37-4872-ac08-8ed969ea9f04)
+
 
 
 *This chart breaks down monthly active users into 'new' and 'returning', providing critical insight into the health of user growth. A strong base of returning users signifies a sticky, valuable product.
@@ -57,7 +59,8 @@ This section provides six unique visualizations of bridge activity, each highlig
 
 ### Chart 5: Asset Use Case Profile
 
-![Chart 5: Asset Use Case Profile](https://github.com/user-attachments/assets/596f6c65-d3bb-4600-8c51-d742dedd25de)
+![Chart 5: Asset Use Case Profile](https://github.com/user-attachments/assets/093e7c98-7171-4d07-a63b-4e55ebca238f)
+
 
 
 *This scatter plot profiles assets by their transaction frequency versus average size. It helps distinguish between assets used for high-frequency, small-value transfers (e.g., retail payments) and those used for low-frequency, high-value movements (e.g., protocol treasury management).
@@ -65,7 +68,8 @@ This section provides six unique visualizations of bridge activity, each highlig
 
 ### Chart 6: 24/7 Global Activity Heatmap
 
-![Chart 6: 24/7 Global Activity Heatmap](https://github.com/user-attachments/assets/3614c636-8e71-458d-945c-a55ebfd4c980)
+![Chart 6: 24/7 Global Activity Heatmap](https://github.com/user-attachments/assets/907a9a7c-5b2e-49f5-a564-c6f8e1c5a33f)
+
 
 
 *The heatmap confirms the bridge's round-the-clock utility, with consistent transaction patterns across all days and hours, indicative of a diverse, global user base across multiple time zones.
@@ -101,7 +105,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 10 | `S6MJVM6H726IYIBKRDXMESKRDOIBYJ7UEQ5XDH2C2M3WLP3XIHAB5JXP7E` | `7,499,500.0000` |
 
 
-**Monthly Growth Metrics**
+**Monthly Growth Metrics (Excludes Incomplete Current Month)**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
@@ -165,38 +169,38 @@ This section provides six unique visualizations of bridge activity, each highlig
 |:---|:---|
 | Transaction Count | `146` |
 | Unique Wallets | `25` |
-| **Total Volume** | **`10,408,278,869,828.0000 UNIT`** |
-| **Total USD Value** | **`NA(INVALID AMOUNT)`** |
-| Net Flow | `7,260,740,909,500.0000 UNIT` |
-| Inflow / Outflow | `8,834,509,889,664.0000` / `1,573,768,980,164.0000 UNIT` |
-| Average Tx Volume | `71,289,581,300.1918 UNIT` |
+| **Total Volume** | **`104,082.7887 UNIT`** |
+| **Total USD Value** | **`$ 22,898.21`** |
+| Net Flow | `72,607.4091 UNIT` |
+| Inflow / Outflow | `88,345.0989` / `15,737.6898 UNIT` |
+| Average Tx Volume | `712.8958 UNIT` |
 
 **Top 10 Wallets by Volume (`UNIT`)**
 
 | Rank | Wallet | Volume |
 |:----:|:-------|-------:|
-| 1 | `DORKHJKTKPZPV2ZLS45X4P6FV7VLE7QZQ7RZCN3DNRKXB56K22LX4RTXDI` | `5,460,800,000,000.0000` |
-| 2 | `GFFFCWJM623AJJGRWPURVJFVJ2F6HKZJRMFQUBOVR7K55E64W6IFXRTCHM` | `1,733,165,096,962.0000` |
-| 3 | `FZPGANXMQIHVSWYN6ZXS63QO5A5X4LEYCB4O52IP37HR6LY5RJY6FRC3LA` | `815,613,080,352.0000` |
-| 4 | `TP33CGHWFSRX5FPVRUF2M2QXUMZE25KBUTYY3FQD34RDQF2B5Z6B4YKJXU` | `694,295,136,247.0000` |
-| 5 | `RBNFHP5BH7AO24WLK4QA7QQMFHVLGTPNZE6D2S3JBOGJTOMDIXQIGK5Z4U` | `600,000,000,000.0000` |
-| 6 | `FEOBLGMDYO254OR3THUBF5S5JHVKMID4NQZSMI5PPCX6K3C3UX3AURZ3WM` | `454,900,000,000.0000` |
-| 7 | `C5NZ5SNL5EMOEVKFW3DS3DBG3FNMIYJAJY3U4I5SRCOXHGY33ML3TGHD24` | `169,352,729,230.0000` |
-| 8 | `G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ` | `155,026,936,535.0000` |
-| 9 | `2RMPWZ6VDF5FKNIWLQQRJFMIXRCOML5NWB2XBLIUOVPQCW56F7VTUQCMAU` | `154,777,781,721.0000` |
-| 10 | `O7FC4I7PX57TSJBN5XOR7WJJNHD6XBMY5IDG32RBAFRLNXN5RISQR6X7AM` | `28,078,714,903.0000` |
+| 1 | `DORKHJKTKPZPV2ZLS45X4P6FV7VLE7QZQ7RZCN3DNRKXB56K22LX4RTXDI` | `54,608.0000` |
+| 2 | `GFFFCWJM623AJJGRWPURVJFVJ2F6HKZJRMFQUBOVR7K55E64W6IFXRTCHM` | `17,331.6510` |
+| 3 | `FZPGANXMQIHVSWYN6ZXS63QO5A5X4LEYCB4O52IP37HR6LY5RJY6FRC3LA` | `8,156.1308` |
+| 4 | `TP33CGHWFSRX5FPVRUF2M2QXUMZE25KBUTYY3FQD34RDQF2B5Z6B4YKJXU` | `6,942.9514` |
+| 5 | `RBNFHP5BH7AO24WLK4QA7QQMFHVLGTPNZE6D2S3JBOGJTOMDIXQIGK5Z4U` | `6,000.0000` |
+| 6 | `FEOBLGMDYO254OR3THUBF5S5JHVKMID4NQZSMI5PPCX6K3C3UX3AURZ3WM` | `4,549.0000` |
+| 7 | `C5NZ5SNL5EMOEVKFW3DS3DBG3FNMIYJAJY3U4I5SRCOXHGY33ML3TGHD24` | `1,693.5273` |
+| 8 | `G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ` | `1,550.2694` |
+| 9 | `2RMPWZ6VDF5FKNIWLQQRJFMIXRCOML5NWB2XBLIUOVPQCW56F7VTUQCMAU` | `1,547.7778` |
+| 10 | `O7FC4I7PX57TSJBN5XOR7WJJNHD6XBMY5IDG32RBAFRLNXN5RISQR6X7AM` | `280.7871` |
 
 
-**Monthly Growth Metrics**
+**Monthly Growth Metrics (Excludes Incomplete Current Month)**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
-| 2024-12 | 9 | 639,621,198.0000 | 3 |
-| 2025-01 | 51 | 9,440,658,666,415.0000 | 17 |
-| 2025-02 | 5 | 121,877,036,195.0000 | 2 |
-| 2025-03 | 2 | 9,989,983,896.0000 | 1 |
-| 2025-04 | 69 | 218,026,373,703.0000 | 6 |
-| 2025-05 | 2 | 466,448,947,014.0000 | 2 |
+| 2024-12 | 9 | 6.3962 | 3 |
+| 2025-01 | 51 | 94,406.5867 | 17 |
+| 2025-02 | 5 | 1,218.7704 | 2 |
+| 2025-03 | 2 | 99.8998 | 1 |
+| 2025-04 | 69 | 2,180.2637 | 6 |
+| 2025-05 | 2 | 4,664.4895 | 2 |
 
 
 ### Asset Performance: Aramid ALGO (`aAlgo`)
@@ -227,7 +231,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 10 | `6ERZOATYULXYOW77NKMNGYGT2F4A5KTHG5R3D6OTTX5FELJ3U3FGYK6R3I` | `57.9420` |
 
 
-**Monthly Growth Metrics**
+**Monthly Growth Metrics (Excludes Incomplete Current Month)**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
@@ -249,7 +253,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | Transaction Count | `8` |
 | Unique Wallets | `3` |
 | **Total Volume** | **`1,708,335,695,568.0000 ID-797369`** |
-| **Total USD Value** | **`NA(TESTING)`** |
+| **Total USD Value** | **`$ 0.00`** |
 | Net Flow | `-1,708,335,695,568.0000 ID-797369` |
 | Inflow / Outflow | `0.0000` / `1,708,335,695,568.0000 ID-797369` |
 | Average Tx Volume | `213,541,961,946.0000 ID-797369` |
@@ -263,7 +267,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 3 | `G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ` | `100,310,671,823.0000` |
 
 
-**Monthly Growth Metrics**
+**Monthly Growth Metrics (Excludes Incomplete Current Month)**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
@@ -278,7 +282,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | Transaction Count | `6` |
 | Unique Wallets | `3` |
 | **Total Volume** | **`135,036,676.0000 aVOTE`** |
-| **Total USD Value** | **`NA(TESTING)`** |
+| **Total USD Value** | **`$ 0.00`** |
 | Net Flow | `-125,982,236.0000 aVOTE` |
 | Inflow / Outflow | `4,527,220.0000` / `130,509,456.0000 aVOTE` |
 | Average Tx Volume | `22,506,112.6667 aVOTE` |
@@ -292,7 +296,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 3 | `G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ` | `861,561.0000` |
 
 
-**Monthly Growth Metrics**
+**Monthly Growth Metrics (Excludes Incomplete Current Month)**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
@@ -308,7 +312,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | Transaction Count | `1` |
 | Unique Wallets | `1` |
 | **Total Volume** | **`0.0999 aGOLD`** |
-| **Total USD Value** | **`$10.11`** |
+| **Total USD Value** | **`$ 0.00`** |
 | Net Flow | `-0.0999 aGOLD` |
 | Inflow / Outflow | `0.0000` / `0.0999 aGOLD` |
 | Average Tx Volume | `0.0999 aGOLD` |
@@ -320,7 +324,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 1 | `ALGONAUTSPIUHDCX3SLFXOFDUKOE4VY36XV4JX2JHQTWJNKVBKPEBQACRY` | `0.0999` |
 
 
-**Monthly Growth Metrics**
+**Monthly Growth Metrics (Excludes Incomplete Current Month)**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
