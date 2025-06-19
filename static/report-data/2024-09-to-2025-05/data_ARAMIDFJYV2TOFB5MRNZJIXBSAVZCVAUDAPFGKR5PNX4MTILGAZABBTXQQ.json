@@ -1,0 +1,710 @@
+{
+  "metadata": {
+    "analysis_date": "2025-06-19T18:49:39.799667+00:00",
+    "main_address": "ARAMIDFJYV2TOFB5MRNZJIXBSAVZCVAUDAPFGKR5PNX4MTILGAZABBTXQQ",
+    "total_transactions": 5414
+  },
+  "global_stats": {
+    "total_unique_wallets": 307,
+    "transaction_type_distribution": {
+      "pay": 3321,
+      "acfg": 10,
+      "axfer": 2081,
+      "keyreg": 2
+    },
+    "user_engagement_metrics": {
+      "total_users": 307,
+      "returning_users": 207,
+      "power_users": 66
+    },
+    "activity_heatmap": {
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "matrix": [
+        [
+          31,
+          44,
+          26,
+          20,
+          31,
+          56,
+          40,
+          30,
+          29,
+          17,
+          13,
+          11,
+          14,
+          35,
+          26,
+          26,
+          31,
+          53,
+          26,
+          64,
+          31,
+          29,
+          34,
+          15
+        ],
+        [
+          30,
+          33,
+          24,
+          73,
+          64,
+          18,
+          23,
+          24,
+          21,
+          13,
+          14,
+          14,
+          22,
+          40,
+          55,
+          52,
+          55,
+          27,
+          23,
+          37,
+          18,
+          17,
+          14,
+          25
+        ],
+        [
+          22,
+          29,
+          45,
+          41,
+          33,
+          42,
+          16,
+          19,
+          7,
+          18,
+          21,
+          18,
+          22,
+          30,
+          22,
+          48,
+          35,
+          38,
+          35,
+          45,
+          70,
+          36,
+          46,
+          30
+        ],
+        [
+          36,
+          53,
+          41,
+          22,
+          23,
+          22,
+          33,
+          25,
+          30,
+          23,
+          13,
+          8,
+          31,
+          29,
+          35,
+          53,
+          36,
+          41,
+          90,
+          41,
+          45,
+          43,
+          27,
+          48
+        ],
+        [
+          53,
+          40,
+          68,
+          34,
+          38,
+          19,
+          25,
+          24,
+          10,
+          9,
+          19,
+          39,
+          32,
+          27,
+          42,
+          23,
+          36,
+          42,
+          76,
+          118,
+          63,
+          44,
+          39,
+          23
+        ],
+        [
+          38,
+          36,
+          39,
+          27,
+          19,
+          17,
+          21,
+          11,
+          7,
+          10,
+          11,
+          13,
+          20,
+          30,
+          31,
+          37,
+          64,
+          23,
+          48,
+          46,
+          48,
+          31,
+          47,
+          36
+        ],
+        [
+          54,
+          37,
+          21,
+          26,
+          20,
+          12,
+          18,
+          5,
+          31,
+          12,
+          14,
+          8,
+          21,
+          29,
+          35,
+          24,
+          36,
+          38,
+          26,
+          33,
+          30,
+          57,
+          61,
+          17
+        ]
+      ]
+    },
+    "monthly_user_dynamics": {
+      "2024-09": {
+        "new": 37
+      },
+      "2024-10": {
+        "new": 63,
+        "returning": 23
+      },
+      "2024-11": {
+        "new": 36,
+        "returning": 37
+      },
+      "2024-12": {
+        "returning": 37,
+        "new": 31
+      },
+      "2025-01": {
+        "new": 39,
+        "returning": 42
+      },
+      "2025-02": {
+        "new": 25,
+        "returning": 56
+      },
+      "2025-03": {
+        "returning": 46,
+        "new": 19
+      },
+      "2025-04": {
+        "returning": 50,
+        "new": 32
+      },
+      "2025-05": {
+        "returning": 46,
+        "new": 17
+      },
+      "2025-06": {
+        "returning": 35,
+        "new": 8
+      }
+    }
+  },
+  "asa_analysis": {
+    "0": {
+      "symbol": "VOI",
+      "name": "Voi",
+      "metrics": {
+        "tx_count": 3321,
+        "unique_wallets": 271,
+        "total_volume": 258665094.244877,
+        "inflow": 151595891.152489,
+        "outflow": 107069203.092388,
+        "net_flow": 44526688.060101,
+        "avg_tx_volume": 77887.71281086329,
+        "total_usd_value": 323331.36780609627
+      },
+      "leaderboards": {
+        "top_wallets_by_freq": {
+          "BUD2763FMK6EYVKGHWWUN4QKHPSPCVFUEPPI4PQCPGYVPGQ6GNKBX6IXCQ": 1218,
+          "TP33CGHWFSRX5FPVRUF2M2QXUMZE25KBUTYY3FQD34RDQF2B5Z6B4YKJXU": 112,
+          "6FBTX2L53LJGDJ6IVK6IEN63IWRXQGNVYT4SL7CA2E4KTU3GG5QIABAJMA": 106,
+          "GFFFCWJM623AJJGRWPURVJFVJ2F6HKZJRMFQUBOVR7K55E64W6IFXRTCHM": 75,
+          "VVNPL3MM2XWE6XGVP6ILCQ5A6B5UFKAZMSKVLXMV5DQP75ODVZM3XCHGDA": 67,
+          "CL47LJ4ZY5CV4CY7MRJ2TJ2CG7X52GLE66WE6Y6DVDSNKSJBZGQNADHW6I": 64,
+          "VOIUK3B5KQXVMVMYMLZOELHNABRKV27BP3CZRIK2ZCF7HEFP4F6APX76NM": 63,
+          "NFZYPGTKBAA2WNR2N4G7HUUA5R3BEXBRLUAPH35FS2ZBMAMEXNKXGFSQNQ": 53,
+          "6Q6JTOFPBP2NMQW2CIHJBTWMGQOZVJNFFCR7YPLNPHB24SFSMGM2WN6MBM": 51,
+          "FZPGANXMQIHVSWYN6ZXS63QO5A5X4LEYCB4O52IP37HR6LY5RJY6FRC3LA": 48
+        },
+        "top_wallets_by_vol": {
+          "BUD2763FMK6EYVKGHWWUN4QKHPSPCVFUEPPI4PQCPGYVPGQ6GNKBX6IXCQ": 48846387.586641,
+          "GFFFCWJM623AJJGRWPURVJFVJ2F6HKZJRMFQUBOVR7K55E64W6IFXRTCHM": 33008025.156585,
+          "CIM3JJWL4RIY4KFF3QU4EYD5VMWCIJXFSIOQLQ4BGOXEXIT4V7FUJBZRSA": 23500000.0,
+          "6FBTX2L53LJGDJ6IVK6IEN63IWRXQGNVYT4SL7CA2E4KTU3GG5QIABAJMA": 17372119.129,
+          "TP33CGHWFSRX5FPVRUF2M2QXUMZE25KBUTYY3FQD34RDQF2B5Z6B4YKJXU": 14241587.340404,
+          "PE7LEK6SMYSK7RF2UXR6RJYDEF45LJMOKJGHNGCIAI7IXKOLINGFDQ2BBI": 13762132.092,
+          "63VHG2ME45CQC6GSX3GQ2RGWJWYR4FOBPBHNIOS5TYNNTTXCHK2XRJ2DY4": 10758407.867634,
+          "2RMPWZ6VDF5FKNIWLQQRJFMIXRCOML5NWB2XBLIUOVPQCW56F7VTUQCMAU": 8395558.130789,
+          "VVNPL3MM2XWE6XGVP6ILCQ5A6B5UFKAZMSKVLXMV5DQP75ODVZM3XCHGDA": 7856884.216794,
+          "S6MJVM6H726IYIBKRDXMESKRDOIBYJ7UEQ5XDH2C2M3WLP3XIHAB5JXP7E": 7499500.0
+        }
+      },
+      "time_series": {
+        "monthly_tx_count": {
+          "2024-09": 82,
+          "2024-10": 436,
+          "2024-11": 320,
+          "2024-12": 274,
+          "2025-01": 391,
+          "2025-02": 603,
+          "2025-03": 350,
+          "2025-04": 416,
+          "2025-05": 271,
+          "2025-06": 178
+        },
+        "monthly_volume": {
+          "2024-09": 2043795.064012,
+          "2024-10": 12655629.425824,
+          "2024-11": 6585757.58462,
+          "2024-12": 9083101.197978,
+          "2025-01": 62667436.871077,
+          "2025-02": 70393596.421013,
+          "2025-03": 28526258.657992,
+          "2025-04": 40700850.763034,
+          "2025-05": 19600333.465065,
+          "2025-06": 6408334.794262
+        },
+        "monthly_unique_wallets": {
+          "2024-09": 29,
+          "2024-10": 81,
+          "2024-11": 56,
+          "2024-12": 55,
+          "2025-01": 68,
+          "2025-02": 74,
+          "2025-03": 55,
+          "2025-04": 68,
+          "2025-05": 52,
+          "2025-06": 35
+        }
+      }
+    },
+    "302189": {
+      "symbol": "aAlgo",
+      "name": "Aramid ALGO",
+      "metrics": {
+        "tx_count": 108,
+        "unique_wallets": 31,
+        "total_volume": 13992.227754,
+        "inflow": 4937.246363,
+        "outflow": 9054.981391,
+        "net_flow": -4117.735028,
+        "avg_tx_volume": 129.5576643888889,
+        "total_usd_value": 2448.6398569499997
+      },
+      "leaderboards": {
+        "top_wallets_by_freq": {
+          "P66R6HKPOVBKN7OY2LS7LJAEWWXJFMUXFOMHTA4TNVWBCUHUQ52NBPK42M": 33,
+          "G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ": 11,
+          "SI7F2AZF2747JPYBFAOC5ZIZRZOTEMMYJ65ITDOT535BWRRSIQV3SCHZ54": 5,
+          "KRGQTWOEDRJ7476DIORQDSLUZMJLHPQ2KKGAZTNGQ6KWPI2UT3KD42EX64": 5,
+          "VVNPL3MM2XWE6XGVP6ILCQ5A6B5UFKAZMSKVLXMV5DQP75ODVZM3XCHGDA": 5,
+          "LPFB7Y6QX2GJILI45MVSKLXMJM7BQEJRET7DEOMI5LCRP6TOREVX3DJEZE": 5,
+          "HSKPPQFJF2P6PH3M2BYEDQ6XJKRLRE3HZ5AOS2TM5YLSUH7SIYVN5FNG4A": 4,
+          "G2OYAUKAEINBZ4YHUDYDDARZY3PXE7TBHN37ACIXHUPVIYWRHALO2I326E": 3,
+          "6ERZOATYULXYOW77NKMNGYGT2F4A5KTHG5R3D6OTTX5FELJ3U3FGYK6R3I": 3,
+          "6Q6JTOFPBP2NMQW2CIHJBTWMGQOZVJNFFCR7YPLNPHB24SFSMGM2WN6MBM": 3
+        },
+        "top_wallets_by_vol": {
+          "VVNPL3MM2XWE6XGVP6ILCQ5A6B5UFKAZMSKVLXMV5DQP75ODVZM3XCHGDA": 4066.63658,
+          "GAS3S2BWNK6WN7OG3AH3JGM4JLXAMMXMMVZWUE7GZILECM4OIVLGZHJ7VE": 3996.0,
+          "P66R6HKPOVBKN7OY2LS7LJAEWWXJFMUXFOMHTA4TNVWBCUHUQ52NBPK42M": 2647.69965,
+          "SI7F2AZF2747JPYBFAOC5ZIZRZOTEMMYJ65ITDOT535BWRRSIQV3SCHZ54": 1599.98939,
+          "KRGQTWOEDRJ7476DIORQDSLUZMJLHPQ2KKGAZTNGQ6KWPI2UT3KD42EX64": 817.223821,
+          "XN5A4VL7NE3K6CCSYJQ72QGAE4N6MEIZZXLPBC2LXSNQB576VS5NIMLHZY": 298.9997,
+          "VFR4XCDMAXMDL2EPK5E6XSQOETSXVD5EKIIDNWFWVNMRPC6G4LGH6AKSHY": 175.824,
+          "LPFB7Y6QX2GJILI45MVSKLXMJM7BQEJRET7DEOMI5LCRP6TOREVX3DJEZE": 74.456169,
+          "GC7CLH2I6WR3BLDQHRQ2YFGOIDEICFFH7RLFD2TIBZFYCWRECNHJTWWTMM": 59.94,
+          "6ERZOATYULXYOW77NKMNGYGT2F4A5KTHG5R3D6OTTX5FELJ3U3FGYK6R3I": 57.942
+        }
+      },
+      "time_series": {
+        "monthly_tx_count": {
+          "2024-09": 3,
+          "2024-10": 22,
+          "2024-11": 13,
+          "2024-12": 1,
+          "2025-01": 3,
+          "2025-02": 4,
+          "2025-03": 8,
+          "2025-04": 12,
+          "2025-05": 2,
+          "2025-06": 40
+        },
+        "monthly_volume": {
+          "2024-09": 2.4975,
+          "2024-10": 5701.427456,
+          "2024-11": 1299.645931,
+          "2024-12": 0.399456,
+          "2025-01": 118.630401,
+          "2025-02": 46.677883,
+          "2025-03": 135.395169,
+          "2025-04": 45.954,
+          "2025-05": 2.00271,
+          "2025-06": 6639.597248
+        },
+        "monthly_unique_wallets": {
+          "2024-09": 2,
+          "2024-10": 10,
+          "2024-11": 7,
+          "2024-12": 1,
+          "2025-01": 2,
+          "2025-02": 3,
+          "2025-03": 3,
+          "2025-04": 3,
+          "2025-05": 2,
+          "2025-06": 4
+        }
+      }
+    },
+    "302190": {
+      "symbol": "aUSDC",
+      "name": "Aramid USDC",
+      "metrics": {
+        "tx_count": 1812,
+        "unique_wallets": 83,
+        "total_volume": 187497.970155,
+        "inflow": 81668.029411,
+        "outflow": 105829.940744,
+        "net_flow": -24161.911333,
+        "avg_tx_volume": 103.47570096854305,
+        "total_usd_value": 187497.970155
+      },
+      "leaderboards": {
+        "top_wallets_by_freq": {
+          "BUD2763FMK6EYVKGHWWUN4QKHPSPCVFUEPPI4PQCPGYVPGQ6GNKBX6IXCQ": 1287,
+          "VVNPL3MM2XWE6XGVP6ILCQ5A6B5UFKAZMSKVLXMV5DQP75ODVZM3XCHGDA": 65,
+          "G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ": 62,
+          "6Q6JTOFPBP2NMQW2CIHJBTWMGQOZVJNFFCR7YPLNPHB24SFSMGM2WN6MBM": 50,
+          "CL47LJ4ZY5CV4CY7MRJ2TJ2CG7X52GLE66WE6Y6DVDSNKSJBZGQNADHW6I": 49,
+          "KUNLFEIZM4DIQALHP47XCQIFBMNUFXK2QJOAKQR5H22I4BRKIH7UTBXADE": 31,
+          "TP33CGHWFSRX5FPVRUF2M2QXUMZE25KBUTYY3FQD34RDQF2B5Z6B4YKJXU": 29,
+          "VOIUK3B5KQXVMVMYMLZOELHNABRKV27BP3CZRIK2ZCF7HEFP4F6APX76NM": 19,
+          "EVWYE75KM6C7BP3KJLOKRR3PK4Y5CIPLLO3KTPDL2QLDLNVTEBUJXL6U6A": 17,
+          "DYX2V5XF4IKOHE55Z63XAHVBJTMYM723HK5WJZ72BDZ5AFEFKJ5YP4DOQQ": 17
+        },
+        "top_wallets_by_vol": {
+          "BUD2763FMK6EYVKGHWWUN4QKHPSPCVFUEPPI4PQCPGYVPGQ6GNKBX6IXCQ": 77281.454587,
+          "G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ": 23645.163917,
+          "TP33CGHWFSRX5FPVRUF2M2QXUMZE25KBUTYY3FQD34RDQF2B5Z6B4YKJXU": 14927.068109,
+          "VVNPL3MM2XWE6XGVP6ILCQ5A6B5UFKAZMSKVLXMV5DQP75ODVZM3XCHGDA": 12607.229913,
+          "2RMPWZ6VDF5FKNIWLQQRJFMIXRCOML5NWB2XBLIUOVPQCW56F7VTUQCMAU": 11507.342681,
+          "DYX2V5XF4IKOHE55Z63XAHVBJTMYM723HK5WJZ72BDZ5AFEFKJ5YP4DOQQ": 6065.623176,
+          "5BSKQBYELIJNWJ477PPRRXVQRRPRWDGGIRSGLHA7G4QXNCICGLFMZTHL4A": 4830.88447,
+          "GAS3S2BWNK6WN7OG3AH3JGM4JLXAMMXMMVZWUE7GZILECM4OIVLGZHJ7VE": 3973.056453,
+          "KEQYAM4NENESW7U3GYCQIYW4WEK5UBR54LCBVMOQUJVP3SRDRTSJMRDQKQ": 3870.91967,
+          "VOIUK3B5KQXVMVMYMLZOELHNABRKV27BP3CZRIK2ZCF7HEFP4F6APX76NM": 3450.744014
+        }
+      },
+      "time_series": {
+        "monthly_tx_count": {
+          "2024-09": 18,
+          "2024-10": 121,
+          "2024-11": 234,
+          "2024-12": 168,
+          "2025-01": 172,
+          "2025-02": 411,
+          "2025-03": 195,
+          "2025-04": 238,
+          "2025-05": 160,
+          "2025-06": 95
+        },
+        "monthly_volume": {
+          "2024-09": 6587.775009,
+          "2024-10": 22667.32347,
+          "2024-11": 14409.461513,
+          "2024-12": 10414.747239,
+          "2025-01": 20514.757664,
+          "2025-02": 32043.540248,
+          "2025-03": 21141.97435,
+          "2025-04": 27447.685782,
+          "2025-05": 18182.102993,
+          "2025-06": 14088.601887
+        },
+        "monthly_unique_wallets": {
+          "2024-09": 14,
+          "2024-10": 20,
+          "2024-11": 25,
+          "2024-12": 19,
+          "2025-01": 20,
+          "2025-02": 14,
+          "2025-03": 16,
+          "2025-04": 16,
+          "2025-05": 13,
+          "2025-06": 15
+        }
+      }
+    },
+    "302228": {
+      "symbol": "aGOLD",
+      "name": "Aramid GOLD",
+      "metrics": {
+        "tx_count": 1,
+        "unique_wallets": 1,
+        "total_volume": 0.0999,
+        "inflow": 0.0,
+        "outflow": 0.0999,
+        "net_flow": -0.0999,
+        "avg_tx_volume": 0.0999,
+        "total_usd_value": 0.0
+      },
+      "leaderboards": {
+        "top_wallets_by_freq": {
+          "ALGONAUTSPIUHDCX3SLFXOFDUKOE4VY36XV4JX2JHQTWJNKVBKPEBQACRY": 1
+        },
+        "top_wallets_by_vol": {
+          "ALGONAUTSPIUHDCX3SLFXOFDUKOE4VY36XV4JX2JHQTWJNKVBKPEBQACRY": 0.0999
+        }
+      },
+      "time_series": {
+        "monthly_tx_count": {
+          "2024-10": 1
+        },
+        "monthly_volume": {
+          "2024-10": 0.0999
+        },
+        "monthly_unique_wallets": {
+          "2024-10": 1
+        }
+      }
+    },
+    "747374": {
+      "symbol": "UNIT",
+      "name": "Unit",
+      "metrics": {
+        "tx_count": 146,
+        "unique_wallets": 25,
+        "total_volume": 10408278869828.0,
+        "inflow": 8834509889664.0,
+        "outflow": 1573768980164.0,
+        "net_flow": 7260740909500.0,
+        "avg_tx_volume": 71289581300.19179,
+        "total_usd_value": 0.0
+      },
+      "leaderboards": {
+        "top_wallets_by_freq": {
+          "G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ": 75,
+          "TP33CGHWFSRX5FPVRUF2M2QXUMZE25KBUTYY3FQD34RDQF2B5Z6B4YKJXU": 10,
+          "FEOBLGMDYO254OR3THUBF5S5JHVKMID4NQZSMI5PPCX6K3C3UX3AURZ3WM": 8,
+          "GFFFCWJM623AJJGRWPURVJFVJ2F6HKZJRMFQUBOVR7K55E64W6IFXRTCHM": 6,
+          "O7FC4I7PX57TSJBN5XOR7WJJNHD6XBMY5IDG32RBAFRLNXN5RISQR6X7AM": 5,
+          "LPPROOJ2JQUIT36SWFRSDMA2OFKN33GQWRTL7G6BRCAOVA3PVWUGSYSQ3Q": 4,
+          "TBKH6I4TIKO6OV35BBFB74SGPUGGPZ7QINKPNLSVG24OR5IUKHDIXHFDGM": 4,
+          "FZPGANXMQIHVSWYN6ZXS63QO5A5X4LEYCB4O52IP37HR6LY5RJY6FRC3LA": 4,
+          "MC75APUKC4IXFP3B62PJAYGOYFTK7RBM5DD7SABLKTBMPTJLLKWWOFLLXM": 4,
+          "DORKHJKTKPZPV2ZLS45X4P6FV7VLE7QZQ7RZCN3DNRKXB56K22LX4RTXDI": 2
+        },
+        "top_wallets_by_vol": {
+          "DORKHJKTKPZPV2ZLS45X4P6FV7VLE7QZQ7RZCN3DNRKXB56K22LX4RTXDI": 5460800000000.0,
+          "GFFFCWJM623AJJGRWPURVJFVJ2F6HKZJRMFQUBOVR7K55E64W6IFXRTCHM": 1733165096962.0,
+          "FZPGANXMQIHVSWYN6ZXS63QO5A5X4LEYCB4O52IP37HR6LY5RJY6FRC3LA": 815613080352.0,
+          "TP33CGHWFSRX5FPVRUF2M2QXUMZE25KBUTYY3FQD34RDQF2B5Z6B4YKJXU": 694295136247.0,
+          "RBNFHP5BH7AO24WLK4QA7QQMFHVLGTPNZE6D2S3JBOGJTOMDIXQIGK5Z4U": 600000000000.0,
+          "FEOBLGMDYO254OR3THUBF5S5JHVKMID4NQZSMI5PPCX6K3C3UX3AURZ3WM": 454900000000.0,
+          "C5NZ5SNL5EMOEVKFW3DS3DBG3FNMIYJAJY3U4I5SRCOXHGY33ML3TGHD24": 169352729230.0,
+          "G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ": 155026936535.0,
+          "2RMPWZ6VDF5FKNIWLQQRJFMIXRCOML5NWB2XBLIUOVPQCW56F7VTUQCMAU": 154777781721.0,
+          "O7FC4I7PX57TSJBN5XOR7WJJNHD6XBMY5IDG32RBAFRLNXN5RISQR6X7AM": 28078714903.0
+        }
+      },
+      "time_series": {
+        "monthly_tx_count": {
+          "2024-12": 9,
+          "2025-01": 51,
+          "2025-02": 5,
+          "2025-03": 2,
+          "2025-04": 69,
+          "2025-05": 2,
+          "2025-06": 8
+        },
+        "monthly_volume": {
+          "2024-12": 639621198.0,
+          "2025-01": 9440658666415.0,
+          "2025-02": 121877036195.0,
+          "2025-03": 9989983896.0,
+          "2025-04": 218026373703.0,
+          "2025-05": 466448947014.0,
+          "2025-06": 150638241407.0
+        },
+        "monthly_unique_wallets": {
+          "2024-12": 3,
+          "2025-01": 17,
+          "2025-02": 2,
+          "2025-03": 1,
+          "2025-04": 6,
+          "2025-05": 2,
+          "2025-06": 3
+        }
+      }
+    },
+    "797372": {
+      "symbol": "aVOTE",
+      "name": "Vote Coin",
+      "metrics": {
+        "tx_count": 6,
+        "unique_wallets": 3,
+        "total_volume": 135036676.0,
+        "inflow": 4527220.0,
+        "outflow": 130509456.0,
+        "net_flow": -125982236.0,
+        "avg_tx_volume": 22506112.666666668,
+        "total_usd_value": 0.0
+      },
+      "leaderboards": {
+        "top_wallets_by_freq": {
+          "VVNPL3MM2XWE6XGVP6ILCQ5A6B5UFKAZMSKVLXMV5DQP75ODVZM3XCHGDA": 3,
+          "LPFB7Y6QX2GJILI45MVSKLXMJM7BQEJRET7DEOMI5LCRP6TOREVX3DJEZE": 2,
+          "G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ": 1
+        },
+        "top_wallets_by_vol": {
+          "VVNPL3MM2XWE6XGVP6ILCQ5A6B5UFKAZMSKVLXMV5DQP75ODVZM3XCHGDA": 123502335.0,
+          "LPFB7Y6QX2GJILI45MVSKLXMJM7BQEJRET7DEOMI5LCRP6TOREVX3DJEZE": 10672780.0,
+          "G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ": 861561.0
+        }
+      },
+      "time_series": {
+        "monthly_tx_count": {
+          "2024-12": 1,
+          "2025-01": 1,
+          "2025-03": 2,
+          "2025-06": 2
+        },
+        "monthly_volume": {
+          "2024-12": 861561.0,
+          "2025-01": 91476498.0,
+          "2025-03": 10672780.0,
+          "2025-06": 32025837.0
+        },
+        "monthly_unique_wallets": {
+          "2024-12": 1,
+          "2025-01": 1,
+          "2025-03": 1,
+          "2025-06": 1
+        }
+      }
+    },
+    "797369": {
+      "symbol": "ID-797369",
+      "name": "Unknown Asset",
+      "metrics": {
+        "tx_count": 8,
+        "unique_wallets": 3,
+        "total_volume": 1708335695568.0,
+        "inflow": 0.0,
+        "outflow": 1708335695568.0,
+        "net_flow": -1708335695568.0,
+        "avg_tx_volume": 213541961946.0,
+        "total_usd_value": 0.0
+      },
+      "leaderboards": {
+        "top_wallets_by_freq": {
+          "P66R6HKPOVBKN7OY2LS7LJAEWWXJFMUXFOMHTA4TNVWBCUHUQ52NBPK42M": 6,
+          "G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ": 1,
+          "EM6YOBT4UOMEGWZO74OLOSA55V6EH6DUQSCAJA6FNMQ5IS5U3GZXBUR2OI": 1
+        },
+        "top_wallets_by_vol": {
+          "EM6YOBT4UOMEGWZO74OLOSA55V6EH6DUQSCAJA6FNMQ5IS5U3GZXBUR2OI": 1498500000000.0,
+          "P66R6HKPOVBKN7OY2LS7LJAEWWXJFMUXFOMHTA4TNVWBCUHUQ52NBPK42M": 109525023745.0,
+          "G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ": 100310671823.0
+        }
+      },
+      "time_series": {
+        "monthly_tx_count": {
+          "2024-12": 1,
+          "2025-05": 1,
+          "2025-06": 6
+        },
+        "monthly_volume": {
+          "2024-12": 100310671823.0,
+          "2025-05": 1498500000000.0,
+          "2025-06": 109525023745.0
+        },
+        "monthly_unique_wallets": {
+          "2024-12": 1,
+          "2025-05": 1,
+          "2025-06": 1
+        }
+      }
+    }
+  }
+}
