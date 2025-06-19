@@ -25,7 +25,7 @@ This is not required for bridging but can be useful to keep track of transaction
 12. Click “Sign”(AVM) or “Approve & Sign”(EVM) and follow the signature instructions in your Origin wallet.
 13. Wait for Aramid to bridge your assets, this usually takes less than 3 minutes.
 14. Click “Claim” and follow the signature instructions in your Destination wallet.
-A**VM Destination chains do not require any further transactions.** 
+**AVM Destination chains do not require any further transactions.** 
 15. Congratulations, you have travelled across the Aramid Bridge🥳
 Click “Bridge again” if you would like to move assets cross-chain again.
 
