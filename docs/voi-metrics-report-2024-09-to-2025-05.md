@@ -70,7 +70,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 *The heatmap confirms the bridge's round-the-clock utility, with consistent transaction patterns across all days and hours, indicative of a diverse, global user base across multiple time zones.
 *
 
-## 3. Deep Dive: ASA-by-ASA Performance Analysis
+## 3. Deep Dive: Token Performance Analysis
 
 ### Asset Performance: Voi (`VOI`)
 
