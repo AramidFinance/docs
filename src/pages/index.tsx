@@ -57,6 +57,11 @@ const TableOfContents = [
     description: "Get support for Aramid Finance",
   },
   {
+    title: "Voi Metrics Report 2024-09 to 2025-06",
+    link: "/docs/voi-metrics-report-2024-09-to-2025-06",
+    description: "Check out our first metrics report!",
+  },
+  {
     title: "Node Operators",
     link: "/docs/node-operators/aramid-soldier-setup",
     description:
