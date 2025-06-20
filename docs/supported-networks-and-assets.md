@@ -37,6 +37,7 @@ Aramid currently supports a range of native tokens and wrapped assets across the
 | Aramid ETH | [770071959](https://allo.info/asset/770071959/token) | aETH |
 | Aramid VOI | [2320775407](https://allo.info/asset/2320775407/token) | aVoi |
 | Unit | [2591862562](https://allo.info/asset/2591862562/token) | UNIT |
+| DeFi-nite | [400593267](https://allo.info/asset/400593267/token) | Finite |
 
 ### Arbitrum Tokens
 
@@ -85,3 +86,5 @@ Aramid currently supports a range of native tokens and wrapped assets across the
 | Aramid GOLD | [302228](https://block.voi.network/explorer/asset/302228/transactions) | aGOLD |
 | Vote Coin | [797372](https://block.voi.network/explorer/asset/797372/transactions) | aVOTE |
 | Power | [40152679](https://block.voi.network/explorer/asset/40152679/transactions) | POW |
+| DeFi-nite | [797369](https://block.voi.network/explorer/asset/797369/transactions) | Finite |
+
