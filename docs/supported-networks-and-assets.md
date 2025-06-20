@@ -45,6 +45,7 @@ Aramid currently supports a range of native tokens and wrapped assets across the
 | Ethereum | NA (Gas token) | ETH |
 | USD Coin | [0xaf88d065e77c8cC2239327C5EDb3A432268e5831](https://arbiscan.io/token/0xaf88d065e77c8cc2239327c5edb3a432268e5831) | USDC |
 | Wrapped BTC | [0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f](https://arbiscan.io/token/0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f) | WBTC |
+| Coinbase Wrappped BTC | [0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf](https://arbiscan.io/token/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf) | cbBTC |
 | Aramid ETH | [0x573daA4caA8312EeE2BaB9c8eA633664B3FBF641](https://arbiscan.io/token/0x573daA4caA8312EeE2BaB9c8eA633664B3FBF641) | aETH |
 | Aramid USDC | [0x6792e1234B8d3E63AA7ba0D4d98cf5205b4cE5Be](https://arbiscan.io/token/0x6792e1234B8d3E63AA7ba0D4d98cf5205b4cE5Be) | aUSDC |
 | Aramid WBTC | [0xb23556658b1E25E0268409053274E09Ed50e2595](https://arbiscan.io/token/0xb23556658b1E25E0268409053274E09Ed50e2595) | aWBTC |
@@ -60,6 +61,7 @@ Aramid currently supports a range of native tokens and wrapped assets across the
 | Ethereum | NA (Gas token) | ETH |
 | USDC | [0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913](https://basescan.org/token/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913) | USDC |
 | Coinbase Wrapped BTC | [0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf](https://basescan.org/token/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf) | cbBTC |
+| Wrapped BTC | [0x0555E30da8f98308EdB960aa94C0Db47230d2B9c](https://basescan.org/token/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c) | WBTC |
 | Aramid ETH | [0xb23556658b1E25E0268409053274E09Ed50e2595](https://basescan.org/token/0xb23556658b1E25E0268409053274E09Ed50e2595) | aETH |
 | Aramid USDC | [0x6792e1234b8d3e63aa7ba0d4d98cf5205b4ce5be](https://basescan.org/token/0x6792e1234b8d3e63aa7ba0d4d98cf5205b4ce5be) | aUSDC |
 | Aramid cbBTC | [0xa62cE1465123C70669EB9A8EEF83Bd788ee9cBB5](https://basescan.org/token/0xa62cE1465123C70669EB9A8EEF83Bd788ee9cBB5) | acbBTC |
