@@ -73,18 +73,18 @@ Aramid currently supports a range of native tokens and wrapped assets across the
 
 ### Voi Tokens
 
-| Name        | ID     | Symbol |
-| ----------- | ------ | ------ |
-| Voi | 0 (Gas token) | VOI |
-| Unit | [747374](https://block.voi.network/explorer/asset/747374/transactions) | UNIT |
-| Aramid VOI | [302192](https://block.voi.network/explorer/asset/302192/transactions) | aVoi |
-| Aramid USDC | [302190](https://block.voi.network/explorer/asset/302190/transactions) | aUSDC |
-| Aramid cbBTC | [40152648](https://block.voi.network/explorer/asset/40152648/transactions) | acbBTC |
-| Aramid WBTC | [40152643](https://block.voi.network/explorer/asset/40152643/transactions) | aWBTC |
-| Aramid ETH | [302193](https://block.voi.network/explorer/asset/302193/transactions) | aETH |
-| Aramid ALGO | [302189](https://block.voi.network/explorer/asset/302189/transactions) | aAlgo |
-| Aramid GOLD | [302228](https://block.voi.network/explorer/asset/302228/transactions) | aGOLD |
-| Vote Coin | [797372](https://block.voi.network/explorer/asset/797372/transactions) | aVOTE |
-| Power | [40152679](https://block.voi.network/explorer/asset/40152679/transactions) | POW |
-| DeFi-nite | [797369](https://block.voi.network/explorer/asset/797369/transactions) | Finite |
+| Name        | ID     | Symbol | ARC200 |
+| ----------- | ------ | ------ | ------ |
+| Voi | 0 (Gas token) | VOI | NA |
+| Unit | [747374](https://block.voi.network/explorer/asset/747374/transactions) | UNIT | [420069](https://voiager.xyz/token/420069) |
+| Aramid VOI | [302192](https://block.voi.network/explorer/asset/302192/transactions) | aVoi | WIP |
+| Aramid USDC | [302190](https://block.voi.network/explorer/asset/302190/transactions) | aUSDC | [395614](https://voiager.xyz/token/395614) |
+| Aramid cbBTC | [40152648](https://block.voi.network/explorer/asset/40152648/transactions) | acbBTC |  WIP |
+| Aramid WBTC | [40152643](https://block.voi.network/explorer/asset/40152643/transactions) | aWBTC |  WIP |
+| Aramid ETH | [302193](https://block.voi.network/explorer/asset/302193/transactions) | aETH | [40153308](https://voiager.xyz/token/40153308) |
+| Aramid ALGO | [302189](https://block.voi.network/explorer/asset/302189/transactions) | aAlgo | [413153](https://voiager.xyz/token/413153) |
+| Aramid GOLD | [302228](https://block.voi.network/explorer/asset/302228/transactions) | aGOLD |  WIP |
+| Vote Coin | [797372](https://block.voi.network/explorer/asset/797372/transactions) | aVOTE | [859312](https://voiager.xyz/token/859312) |
+| Power | [40152679](https://block.voi.network/explorer/asset/40152679/transactions) | POW | [40153155](https://voiager.xyz/token/40153155) |
+| DeFi-nite | [797369](https://block.voi.network/explorer/asset/797369/transactions) | Finite | [859317](https://voiager.xyz/token/859317) |
 
