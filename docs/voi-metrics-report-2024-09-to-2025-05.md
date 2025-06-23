@@ -246,7 +246,7 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 2025-05 | 2 | 2.0027 | 2 |
 
 
-### Asset Performance: Unknown Asset (`DeFi-nite`)
+### Asset Performance: DeFi-nite (`Finite`)
 
 | Metric | Value |
 |:---|:---|
@@ -291,18 +291,18 @@ This section provides six unique visualizations of bridge activity, each highlig
 
 | Rank | Wallet | Volume |
 |:----:|:-------|-------:|
-| 1 | `VVNPL3MM2XWE6XGVP6ILCQ5A6B5UFKAZMSKVLXMV5DQP75ODVZM3XCHGDA` | `123,502,335.0000` |
-| 2 | `LPFB7Y6QX2GJILI45MVSKLXMJM7BQEJRET7DEOMI5LCRP6TOREVX3DJEZE` | `10,672,780.0000` |
-| 3 | `G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ` | `861,561.0000` |
+| 1 | `VVNPL3MM2XWE6XGVP6ILCQ5A6B5UFKAZMSKVLXMV5DQP75ODVZM3XCHGDA` | `123.502335` |
+| 2 | `LPFB7Y6QX2GJILI45MVSKLXMJM7BQEJRET7DEOMI5LCRP6TOREVX3DJEZE` | `10.672780` |
+| 3 | `G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ` | `0.861561` |
 
 
 **Monthly Growth Metrics (Excludes Incomplete Current Month)**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
-| 2024-12 | 1 | 861,561.0000 | 1 |
-| 2025-01 | 1 | 91,476,498.0000 | 1 |
-| 2025-03 | 2 | 10,672,780.0000 | 1 |
+| 2024-12 | 1 | 0.861561| 1 |
+| 2025-01 | 1 | 91.476498 | 1 |
+| 2025-03 | 2 | 10.672780 | 1 |
 
 
 ### Asset Performance: Aramid GOLD (`aGOLD`)
