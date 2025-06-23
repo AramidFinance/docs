@@ -246,33 +246,33 @@ This section provides six unique visualizations of bridge activity, each highlig
 | 2025-05 | 2 | 2.0027 | 2 |
 
 
-### Asset Performance: Unknown Asset (`ID-797369`)
+### Asset Performance: Unknown Asset (`DeFi-nite`)
 
 | Metric | Value |
 |:---|:---|
 | Transaction Count | `8` |
 | Unique Wallets | `3` |
-| **Total Volume** | **`1,708,335,695,568.0000 ID-797369`** |
-| **Total USD Value** | **`$ 0.00`** |
-| Net Flow | `-1,708,335,695,568.0000 ID-797369` |
-| Inflow / Outflow | `0.0000` / `1,708,335,695,568.0000 ID-797369` |
-| Average Tx Volume | `213,541,961,946.0000 ID-797369` |
+| **Total Volume** | **`17,083.35695568 Finite`** |
+| **Total USD Value** | **`$ 123.25`** |
+| Net Flow | `17,083.35695568 ID-797369` |
+| Inflow / Outflow | `0.0000` / `17,083.35695568 Finite` |
+| Average Tx Volume | `2,135.41961946 Finite` |
 
-**Top 10 Wallets by Volume (`ID-797369`)**
+**Top 10 Wallets by Volume (`DeFi-nite`)**
 
 | Rank | Wallet | Volume |
 |:----:|:-------|-------:|
-| 1 | `EM6YOBT4UOMEGWZO74OLOSA55V6EH6DUQSCAJA6FNMQ5IS5U3GZXBUR2OI` | `1,498,500,000,000.0000` |
-| 2 | `P66R6HKPOVBKN7OY2LS7LJAEWWXJFMUXFOMHTA4TNVWBCUHUQ52NBPK42M` | `109,525,023,745.0000` |
-| 3 | `G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ` | `100,310,671,823.0000` |
+| 1 | `EM6YOBT4UOMEGWZO74OLOSA55V6EH6DUQSCAJA6FNMQ5IS5U3GZXBUR2OI` | `14,985.00000000` |
+| 2 | `P66R6HKPOVBKN7OY2LS7LJAEWWXJFMUXFOMHTA4TNVWBCUHUQ52NBPK42M` | `1,095.25023745` |
+| 3 | `G3MSA75OZEJTCCENOJDLDJK7UD7E2K5DNC7FVHCNOV7E3I4DTXTOWDUIFQ` | `1,003.10671823` |
 
 
 **Monthly Growth Metrics (Excludes Incomplete Current Month)**
 
 | Month | Transactions | Volume | Unique Wallets |
 |:---|---:|---:|---:|
-| 2024-12 | 1 | 100,310,671,823.0000 | 1 |
-| 2025-05 | 1 | 1,498,500,000,000.0000 | 1 |
+| 2024-12 | 1 | 1,003.10671823 | 1 |
+| 2025-05 | 1 | 14,985.00000000 | 1 |
 
 
 ### Asset Performance: Vote Coin (`aVOTE`)
@@ -281,11 +281,11 @@ This section provides six unique visualizations of bridge activity, each highlig
 |:---|:---|
 | Transaction Count | `6` |
 | Unique Wallets | `3` |
-| **Total Volume** | **`135,036,676.0000 aVOTE`** |
-| **Total USD Value** | **`$ 0.00`** |
-| Net Flow | `-125,982,236.0000 aVOTE` |
-| Inflow / Outflow | `4,527,220.0000` / `130,509,456.0000 aVOTE` |
-| Average Tx Volume | `22,506,112.6667 aVOTE` |
+| **Total Volume** | **`135.036676 aVOTE`** |
+| **Total USD Value** | **`$ 1.68`** |
+| Net Flow | `-125.982236 aVOTE` |
+| Inflow / Outflow | `4.527220` / `130.509456 aVOTE` |
+| Average Tx Volume | `22.506112 aVOTE` |
 
 **Top 10 Wallets by Volume (`aVOTE`)**
 
