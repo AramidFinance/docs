@@ -72,7 +72,7 @@ This guide provides practical, example-driven instructions for all four core arb
 
 ---
 
-## 3. EVM to EVM Transactions (Base ↔ Arbitrum)
+## 3. EVM to EVM Transactions (Base ↔ Arbitrum) **(!WIP!)**
 
 **How it works:**
 - Use the Aramid Bridge app, connect your EVM wallet, and select source/destination EVM networks and asset.
@@ -122,7 +122,7 @@ uint256 destinationNetwork
 
 ---
 
-## 4. EVM to AVM Transactions (Base/Arbitrum → Voi/Algorand)
+## 4. EVM to AVM Transactions (Base/Arbitrum → Voi/Algorand) **(!WIP!)**
 
 **How it works:**
 - Use the Aramid Bridge app, connect your EVM wallet, and select EVM source and AVM destination.
@@ -196,16 +196,3 @@ uint256 destinationNetwork
 
 ---
 
-## Best Practices for Arbitrageurs
-
-- Verify bridge addresses, chain IDs, and token contracts before sending.
-- Always test with small amounts before large transfers.
-- Maintain enough native tokens for gas and claiming fees.
-- Use direct claim URLs for speed and reliability.
-- Monitor network congestion and bridge status for optimal timing.
-- For EVM transactions, ensure proper approval of bridge contract to spend tokens.
-- Use block explorers to verify transaction parameters and function calls.
-
----
-
-*This document covers all four core arbitrage transaction paths supported by Aramid Bridge, with live transaction examples and technical details for each. Manual claiming is required for all EVM destination paths, while AVM destinations are credited automatically after bridge processing.*
