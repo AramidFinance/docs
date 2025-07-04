@@ -22,6 +22,11 @@ const TableOfContents = [
     description: "Learn how to use the Aramid Bridge",
   },
   {
+    title: "Arbitrage & Claim",
+    link: "/docs/arbitrage",
+    description: "Claim your transactions and learn advanced techniques!",
+  },
+  {
     title: "Core Architecture",
     link: "/docs/core-architecture",
     description: "Understand the core architecture of Aramid",

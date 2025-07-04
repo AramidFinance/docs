@@ -5,6 +5,7 @@ const sidebars: SidebarsConfig = {
     "intro",
     "supported-networks-and-assets",
     "using-aramid-bridge",
+    "arbitrage",
     "core-architecture",
     "cross-chain-messaging",
     "governance-and-upgradability",

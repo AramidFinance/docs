@@ -97,6 +97,10 @@ const config: Config = {
               label: "🔗 Using Aramid Bridge",
               to: "/docs/using-aramid-bridge",
             },
+            {
+              label: "🔗 Arbitrage & Claim",
+              to: "/docs/arbitrage",
+            },
           ],
         },
         {
