@@ -1,4 +1,4 @@
-# Arbitrage with Aramid Bridge
+# Arbitrage & Claim
 
 This guide provides practical, example-driven instructions for all four core arbitrage transaction paths supported by Aramid Bridge. Each section includes a real or representative transaction example and clear steps for asset claiming.
 
@@ -6,12 +6,12 @@ This guide provides practical, example-driven instructions for all four core arb
 
 ## Supported Arbitrage Networks
 
-| Network   | Consensus | Chain ID | Symbol | Bridge Address |
+| Network   | Consensus | Chain ID | Symbol | Bridge Address |
 |-----------|-----------|----------|--------|----------------|
-| Voi       | AVM       | 416101   | VOI    | ARAMIDFJYV2TOFB5MRNZJIXBSAVZCVAUDAPFGKR5PNX4MTILGAZABBTXQQ |
-| Algorand  | AVM       | 416001   | ALGO   | ARAMIDFJYV2TOFB5MRNZJIXBSAVZCVAUDAPFGKR5PNX4MTILGAZABBTXQQ |
-| Arbitrum  | EVM       | 42161    | AETH   | 0xC7FAA8f8C6D9Dc05ABf3C5aa741a38F9A6d1C263 |
-| Base      | EVM       | 8453     | BASE   | 0xC7FAA8f8C6D9Dc05ABf3C5aa741a38F9A6d1C263 |
+| Voi       | AVM       | 416101   | VOI    | ARAMIDFJYV2TOFB5MRNZJIXBSAVZCVAUDAPFGKR5PNX4MTILGAZABBTXQQ |
+| Algorand  | AVM       | 416001   | ALGO   | ARAMIDFJYV2TOFB5MRNZJIXBSAVZCVAUDAPFGKR5PNX4MTILGAZABBTXQQ |
+| Arbitrum  | EVM       | 42161    | AETH   | 0xC7FAA8f8C6D9Dc05ABf3C5aa741a38F9A6d1C263 |
+| Base      | EVM       | 8453     | BASE   | 0xC7FAA8f8C6D9Dc05ABf3C5aa741a38F9A6d1C263 |
 
 ![Aramid crosschain flow](aramid_bridge_flowchart.png)
 
@@ -25,6 +25,7 @@ This guide provides practical, example-driven instructions for all four core arb
 - After confirmation, assets are credited automatically on the destination AVM chain (ensure Algorand opt-in).
 
 **Example Note Field:**
+
 ```
 {
 "destinationNetwork": 416001,
@@ -37,8 +38,8 @@ This guide provides practical, example-driven instructions for all four core arb
 }
 ```
 
-**Claiming:**  
-- **Automatic** for AVM destinations.  
+**Claiming:**  
+- **Automatic** for AVM destinations.  
 - For Algorand, ensure the destination account is opted-in to the asset before bridging (you have 1000 blocks to opt-in).
 
 ---
@@ -51,6 +52,7 @@ This guide provides practical, example-driven instructions for all four core arb
 - After bridge confirmation, claim assets on the EVM chain using the source transaction hash.
 
 **Example Note Field:**
+
 ```
 {
 "destinationNetwork": 8453,
@@ -63,7 +65,7 @@ This guide provides practical, example-driven instructions for all four core arb
 }
 ```
 
-**Claiming:**  
+**Claiming:**  
 - **Manual claiming is required for EVM destinations.**
 - Go to: `https://app.aramid.finance/claim/<TRANSACTION_ID>`
 - Connect your wallet on the destination EVM network and complete the claim.
@@ -79,12 +81,12 @@ This guide provides practical, example-driven instructions for all four core arb
 
 **Transaction Structure**
 
-EVM to EVM transactions use smart contract function calls with the function selector `0xd12fed86` and encoded parameters[1].
+EVM to EVM transactions use smart contract function calls with the function selector and encoded parameters.
 
-**Example Transaction:**  
+**Example Transaction:**  
 - [Arbitrum to Base Example](https://arbiscan.io/tx/0xf059143b60b2f0d4c65a7a12540fb2dfb8a0706c0f2b55828c9edd24acfd3051)
-- **Direct Claim URL:**  
-  `https://app.aramid.finance/claim/0xf059143b60b2f0d4c65a7a12540fb2dfb8a0706c0f2b55828c9edd24acfd3051`
+- **Direct Claim URL:**  
+  `https://app.aramid.finance/claim/0xf059143b60b2f0d4c65a7a12540fb2dfb8a0706c0f2b55828c9edd24acfd3051`
 
 **Decoded Parameters:**
 - **sourceToken**: `0x0000000000000000000000000000000000000000` (Native ETH)
@@ -95,6 +97,7 @@ EVM to EVM transactions use smart contract function calls with the function sele
 - **destinationNetwork**: `8453` (Base)
 
 **Function Call Structure:**
+
 ```
 function bridgeToEVM(
 address sourceToken,
@@ -112,7 +115,7 @@ uint256 destinationNetwork
 - **destinationData**: Contains encoded destination token address and recipient address
 - **Same Claiming Process**: Uses source transaction ID for claiming
 
-**Claiming:**  
+**Claiming:**  
 - **Manual claiming is required for EVM destinations.**
 - Go to: `https://app.aramid.finance/claim/<TRANSACTION_ID>`
 - Connect your wallet on the destination EVM network and complete the claim.
@@ -129,9 +132,9 @@ uint256 destinationNetwork
 
 **Transaction Structure**
 
-EVM to AVM transactions use smart contract function calls with the function selector `0x07622459` and encoded parameters[1].
+EVM to AVM transactions use smart contract function calls with the function selector and encoded parameters.
 
-**Example Transaction:**  
+**Example Transaction:**  
 - [Base to Voi (WBTC) Example](https://basescan.org/tx/0x0930608480167608bf14ac3344562106240508f5103da758ef684229ef230d13)
 - **WBTC sent from Base to Voi**
 
@@ -165,10 +168,9 @@ uint256 destinationNetwork
 - **destinationData**: Contains encoded destination asset ID and AVM address
 - **Automatic Claiming**: Assets arrive automatically on AVM chains
 
-**Claiming:**  
-- **Automatic** for AVM destinations.  
-- Ensure the destination account is opted-in to the asset(ASA) before bridging (you have <1000 blocks to opt-in).
-
+**Claiming:**
+- **Automatic** for AVM destinations.
+- Ensure the destination account is opted-in to the asset(ASA) before bridging (you have < 1000 blocks to opt-in).
 ---
 
 ## Asset Claiming Process
@@ -180,8 +182,7 @@ uint256 destinationNetwork
 
 ### AVM Destination Paths (AVM→AVM, EVM→AVM)
 - **Claiming is automatic for AVM destinations** once the bridge processes the transaction.
-- Ensure the destination account is opted-in to the asset before bridging (you have <1000 blocks).
-
+- Ensure the destination account is opted-in to the asset before bridging (you have < 1000 blocks).
 ---
 
 ## Technical Transaction Summary
