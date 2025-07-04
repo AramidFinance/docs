@@ -90,8 +90,8 @@ EVM to EVM transactions use smart contract function calls with the function sele
 
 **Decoded Parameters:**
 - **sourceToken**: `0x0000000000000000000000000000000000000000` (Native ETH)
-- **sourceAmount**: `1,100,000,000,000,000` wei (0.0011 ETH)
-- **feeAmount**: `1,100,000,000,000` wei (0.000001 ETH)
+- **sourceAmount**: `1,100,000,000,000,000` gwei (0.0011 ETH)
+- **feeAmount**: `1,100,000,000,000` gwei (0.000001 ETH)
 - **destinationData**: Contains encoded destination token and address
 - **note**: `aramid`
 - **destinationNetwork**: `8453` (Base)
