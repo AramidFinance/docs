@@ -19,6 +19,8 @@ This guide provides practical, example-driven instructions for all four core arb
 
 ## 1. AVM to AVM Transactions (Voi ↔ Algorand)
 
+![AVM to AVM Flow](aramid-avm-avm-flow.png)
+
 **How it works:**
 - Initiate from an AVM wallet (e.g., Voi).
 - Use a note field with JSON specifying the Algorand address, asset ID, and amounts.
@@ -45,6 +47,8 @@ This guide provides practical, example-driven instructions for all four core arb
 ---
 
 ## 2. AVM to EVM Transactions (Voi/Algorand → Base/Arbitrum)
+
+![AVM to EVM Flow](aramid-avm-evm-flow.png)
 
 **How it works:**
 - Initiate from an AVM wallet.
@@ -73,6 +77,8 @@ This guide provides practical, example-driven instructions for all four core arb
 ---
 
 ## 3. EVM to EVM Transactions (Base ↔ Arbitrum) **(!WIP!)**
+
+![EVM to EVM Flow](aramid-evm-evm-flow.png)
 
 **How it works:**
 - Use the Aramid Bridge app, connect your EVM wallet, and select source/destination EVM networks and asset.
@@ -123,6 +129,8 @@ uint256 destinationNetwork
 ---
 
 ## 4. EVM to AVM Transactions (Base/Arbitrum → Voi/Algorand) **(!WIP!)**
+
+![EVM to AVM Flow](aramid-evm-avm-flow.png)
 
 **How it works:**
 - Use the Aramid Bridge app, connect your EVM wallet, and select EVM source and AVM destination.
