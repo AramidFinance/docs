@@ -90,8 +90,8 @@ EVM to EVM transactions use smart contract function calls with the function sele
 
 **Decoded Parameters:**
 - **sourceToken**: `0x0000000000000000000000000000000000000000` (Native ETH)
-- **sourceAmount**: `1,100,000,000,000` wei (0.000001 ETH)
-- **feeAmount**: `1,100,000,000,000,000` wei (0.0011 ETH)
+- **sourceAmount**: `1,100,000,000,000,000` wei (0.0011 ETH)
+- **feeAmount**: `1,100,000,000,000` wei (0.000001 ETH)
 - **destinationData**: Contains encoded destination token and address
 - **note**: `aramid`
 - **destinationNetwork**: `8453` (Base)
@@ -140,9 +140,9 @@ EVM to AVM transactions use smart contract function calls with the function sele
 
 **Decoded Parameters:**
 - **sourceToken**: `0x0555e30da8f98308edb960aa94c0db47230d2b9c` (WBTC on Base)
-- **sourceAmount**: `11` (0.00011 WBTC)
+- **sourceAmount**: `0000000011` (0.00011 WBTC)
 - **destinationToken**: `0x0555e30da8f98308edb960aa94c0db47230d2b9c`
-- **feeAmount**: `10989`
+- **feeAmount**: `0000000000010989` (0.00000011 WBTC)
 - **destinationNetwork**: `416101` (Voi)
 - **destinationAssetId**: `40152643` (aWBTC on Voi)
 - **destinationAddress**: `VOIUK3B5KQXVMVMYMLZOELHNABRKV27BP3CZRIK2ZCF7HEFP4F6APX76NM`
