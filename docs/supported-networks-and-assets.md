@@ -14,7 +14,6 @@ Aramid's architecture is designed to support a wide array of blockchain networks
 | Arbitrum | EVM | 42161 | AETH | [0xC7FAA8f8C6D9Dc05ABf3C5aa741a38F9A6d1C263](https://arbiscan.io/address/0xC7FAA8f8C6D9Dc05ABf3C5aa741a38F9A6d1C263) |
 | Base | EVM | 8453 | BASE | [0xC7FAA8f8C6D9Dc05ABf3C5aa741a38F9A6d1C263](https://basescan.org/address/0xC7FAA8f8C6D9Dc05ABf3C5aa741a38F9A6d1C263) |
 | Voi | AVM | 416101 | VOI | [ARAMIDFJYV2TOFB5MRNZJIXBSAVZCVAUDAPFGKR5PNX4MTILGAZABBTXQQ](https://block.voi.network/explorer/account/ARAMIDFJYV2TOFB5MRNZJIXBSAVZCVAUDAPFGKR5PNX4MTILGAZABBTXQQ/transactions) |
-| NEAR Protocol | NEAR VM| - | NEAR| Inactive|
 | Ethereum | EVM | 1 | ETH | Inactive|
 
 ## Supported Assets
