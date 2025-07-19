@@ -91,23 +91,23 @@ Aramid currently supports a range of native tokens and wrapped assets across the
 | Unit NEW| [40266690](https://block.voi.network/explorer/asset/40266690/transactions) | UNIT | [420069](https://voiager.xyz/token/420069) |
 | Aramid VOI | [302192](https://block.voi.network/explorer/asset/302192/transactions) | aVoi | WIP |
 | Aramid USDC | [302190](https://block.voi.network/explorer/asset/302190/transactions) | aUSDC | [395614](https://voiager.xyz/token/395614) |
-| Aramid cbBTC | [40152648](https://block.voi.network/explorer/asset/40152648/transactions) | acbBTC |  WIP |
-| Aramid WBTC | [40152643](https://block.voi.network/explorer/asset/40152643/transactions) | aWBTC |  WIP |
+| Aramid cbBTC | [40152648](https://block.voi.network/explorer/asset/40152648/transactions) | acbBTC | [40153415](https://voiager.xyz/token/40153415) |
+| Aramid WBTC | [40152643](https://block.voi.network/explorer/asset/40152643/transactions) | aWBTC | [40153368](https://voiager.xyz/token/40153368) |
 | Aramid ETH | [302193](https://block.voi.network/explorer/asset/302193/transactions) | aETH | [40153308](https://voiager.xyz/token/40153308) |
 | Aramid ALGO | [302189](https://block.voi.network/explorer/asset/302189/transactions) | aAlgo | [413153](https://voiager.xyz/token/413153) |
 | Aramid GOLD | [302228](https://block.voi.network/explorer/asset/302228/transactions) | aGOLD |  WIP |
 | Vote Coin | [797372](https://block.voi.network/explorer/asset/797372/transactions) | aVOTE | [859312](https://voiager.xyz/token/859312) |
 | DeFi-nite | [797369](https://block.voi.network/explorer/asset/797369/transactions) | Finite | [859317](https://voiager.xyz/token/859317) |
 | Power | [40152679](https://block.voi.network/explorer/asset/40152679/transactions) | POW | [40153155](https://voiager.xyz/token/40153155) |
-| Ammo | [40266675](https://block.voi.network/explorer/asset/40266675/transactions) | AMMO |
+| Ammo | [40266675](https://block.voi.network/explorer/asset/40266675/transactions) | AMMO | [798968](https://voiager.xyz/token/798968) |
 | Ball Sack | [40266605](https://block.voi.network/explorer/asset/40266605/transactions) | BALLSACK |
 | Blapu | [40266627](https://block.voi.network/explorer/asset/40266627/transactions) | BLAPU |
 | Coop Coin| [40266636](https://block.voi.network/explorer/asset/40266636/transactions) | COOP |
-| Corn coin | [40266686](https://block.voi.network/explorer/asset/40266686/transactions) | CORN |
+| Corn coin | [40266686](https://block.voi.network/explorer/asset/40266686/transactions) | CORN | [412682](https://voiager.xyz/token/412682) |
 | Gems | [40266638](https://block.voi.network/explorer/asset/40266638/transactions) | GEMS |
 | GLIZZY PEPE | [40266643](https://block.voi.network/explorer/asset/40266643/transactions) | GPEPE |
 | Jim Coin | [40266651](https://block.voi.network/explorer/asset/40266651/transactions) | Jimmy |
 | mfercoin | [40266653](https://block.voi.network/explorer/asset/40266653/transactions) | MFER |
 | Panda Chain | [40266654](https://block.voi.network/explorer/asset/40266654/transactions) | PANDA |
-| Turtle Bucks | [40266665](https://block.voi.network/explorer/asset/40266665/transactions) | $TURTLE |
+| Turtle Bucks | [40266665](https://block.voi.network/explorer/asset/40266665/transactions) | TURTLE |
 
