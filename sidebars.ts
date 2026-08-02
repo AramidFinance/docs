@@ -22,6 +22,13 @@ const sidebars: SidebarsConfig = {
         "node-operators/revert-failed-transactions",
       ],
     },
+    {
+      type: "category",
+      label: "Developers",
+      items: [
+        "developers/ai-agent-integration",
+      ],
+    },
   ],
 };
 
