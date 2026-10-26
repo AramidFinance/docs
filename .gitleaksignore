@@ -1,0 +1,2 @@
+# gitleaks false positives - verified 2026-10-26 (contract addresses, public test keys, client IDs, placeholders)
+44b587091e3218fc796ece6fe9e37e5f35129d2d:docs/arbitrage.md:generic-api-key:58
